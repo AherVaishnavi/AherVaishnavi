@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Aher</h1>
 <h3 align="center">A passionate developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahervaishnavi&label=Profile%20views&color=000000&style=flat" alt="ahervaishnavi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahervaishnavi&label=Profile%20views&color=0e75b6&style=flat" alt="ahervaishnavi" /> </p>
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ahervaishnavi&theme=darkhub" alt="ahervaishnavi" />
