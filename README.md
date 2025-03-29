@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Vaishnavi Aher.<br><br>🌱 I’m currently learning SpringBoot.<br><br>👯 I’m looking to collaborate on OpenSource Projects.<br><br>📫 How to reach me vaishnaviaher758@gmail.com<br><br>⚡ Fun fact I am an introvert !
+👋 Hi, I'm Vaishnavi Aher.<br><br>🌱 I’m currently learning SpringBoot.<br><br>👯 I’m looking to collaborate on OpenSource Projects.<br><br>📫 How to reach me vaishnaviaher758@gmail.com<br><br>⚡ Fun fact I am an introvert !
 
 
 ## 🌐 Socials:
